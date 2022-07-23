@@ -4,7 +4,7 @@ BIN = player
 # Flags
 CFLAGS += -Wall -Wextra -pedantic -Wno-unused-function -Os -s
 
-SRC = gui_main.c
+SRC = main.c
 OBJ = $(SRC:.c=.o)
 
 $(BIN):
