@@ -18,4 +18,6 @@ Just type:
 
 ## Dependencies
 
-This project does not have any dependencies
+This project is based on two outstanding libraries:
+* [Nuklear GUI library](https://github.com/Immediate-Mode-UI/Nuklear)
+* [Miniaudio.h audio library](https://miniaud.io/)
